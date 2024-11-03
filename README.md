@@ -1,9 +1,9 @@
 # CODETECH-Task2
 **Name**: S.BHARATH KUMAR
-**Company**:CODETECH IT SOLUTIONS
-**ID**:CT08DS9243
-**Domain**:Data Science
-**Duration**:OCT TO NOV 2024
+**Company**: CODETECH IT SOLUTIONS
+**ID**: CT08DS9243
+**Domain**: Data Science
+**Duration**: OCT TO NOV 2024
 
 # Overview of project
 
